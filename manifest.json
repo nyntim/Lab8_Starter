@@ -2,7 +2,7 @@
     "name": "Lab8_Starter",
     "short_name": "Tim Nguyen",
     "description": "CSE 110 Lab 8 recipe PWA exploring service workers and offline caching.",
-    "start_url": "",
+    "start_url": "./",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000080",
